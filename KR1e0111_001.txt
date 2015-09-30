@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 春秋世族譜
-#+DATE: 2015-09-23 09:40:39
-#+PROPERTY: JUAN 1
+#+DATE: 2015-08-24 22:17:26.152555
+#+PROPERTY: ID KR1e0111
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷上
 <pb:KR1e0111_WYG_001-1a>¶
 欽定四庫全書¶
 　春秋世族譜卷上¶
@@ -262,4 +264,3 @@
 (俱哀/九見)　　　　　　　　　︵字位過密　無法显示︶¶
 　¶
 　春秋世族譜巻上¶
-
